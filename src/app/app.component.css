@@ -8,7 +8,7 @@ div{
 background-color: coral;
 }
 
-.secondclass{
+#second{
     background-color:red;
 }
 
@@ -25,13 +25,51 @@ background-color: coral;
     background-color:gray;
 }
 
-.welcome{
+.firstwelcome{
     background-image: url('../assets/AWS.jpg') !important;
     width: 200px;
     height: 200px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position:initial;
-
-    
+    background-position:initial;   
+}
+.secondwelcome{
+    background-image: url('../assets/inputoutput.jpg') !important;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:initial;   
+}
+.thirdwelcome{
+    background-image: url('../assets/github.png') !important;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:initial;   
+}
+.fourthwelcome{
+    background-image: url('../assets/angular.png') !important;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:initial;   
+}
+.fifthwelcome{
+    background-image: url('../assets/bootstrap.png') !important;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:initial;   
+}
+.sixthwelcome{
+    background-image: url('../assets/Freckle.png') !important;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:initial;   
 }
